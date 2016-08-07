@@ -1,0 +1,42 @@
+  img{
+  	width: 25%;
+  	height: 25%;
+  }
+
+  .nav ul{
+  	margin: 0 auto;
+  	width: 980px;
+  }
+
+  .nav li{
+  	float: left;
+  }
+
+  ul{
+  	margin: 0;
+  	padding: 0;
+  	list-style: none;
+  }
+
+  .nav .nav-link{
+  	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #333333), color-stop(1, #333333));
+  	color: white;
+  	display: block;
+  	width: 160px;
+  	font-size: 16px;
+  	text-align: center;
+  	padding: 18px 0px;
+  	opacity: 0.5;
+  }
+
+  .nav .nav-link:hover{
+  	opacity: 0.8;
+  }
+
+  .clear{
+  	clear: both;
+  }
+
+  a{
+  	text-decoration: none;
+  }

@@ -1,0 +1,39 @@
+  .footer1{
+  	background-color: #000;
+    height: 54px;
+    width: 100%;
+    position: absolute;
+    top: 845px;
+    border-top: 1px solid #838383;
+    z-index: 0;
+  }
+
+  .footer2{
+  	background-color: #000;
+  	height: 50px;
+  	width: 100%;
+  	position: absolute;
+  	top: 900px;
+  	border-top: 1px solid #333;
+  	z-index: 0;
+  	color: white;
+  }
+
+  .footer3{
+  	background-color: #000;
+    height: 91px;
+    width: 100%;
+    position: absolute;
+    top: 950px;
+    border-top: 1px solid #333;
+    z-index: 0;
+    color: #ccc;
+  }
+
+  .copyright{
+  	text-align: center;
+  }
+
+  .list{
+  	text-align: center;
+  }
