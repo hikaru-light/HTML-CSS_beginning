@@ -1,3 +1,1 @@
-# previous_homepage
-
-This directory was added on Github.
+# my_first_homepage
